@@ -1,0 +1,15 @@
+C:\Users\Греча\Desktop\09.03.2021\001example\bin\Debug\net6.0\001example.exe
+C:\Users\Греча\Desktop\09.03.2021\001example\bin\Debug\net6.0\001example.deps.json
+C:\Users\Греча\Desktop\09.03.2021\001example\bin\Debug\net6.0\001example.runtimeconfig.json
+C:\Users\Греча\Desktop\09.03.2021\001example\bin\Debug\net6.0\001example.dll
+C:\Users\Греча\Desktop\09.03.2021\001example\bin\Debug\net6.0\001example.pdb
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.csproj.AssemblyReference.cache
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.AssemblyInfoInputs.cache
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.AssemblyInfo.cs
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.csproj.CoreCompileInputs.cache
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.dll
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\refint\001example.dll
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.pdb
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\001example.genruntimeconfig.cache
+C:\Users\Греча\Desktop\09.03.2021\001example\obj\Debug\net6.0\ref\001example.dll
